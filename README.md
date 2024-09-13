@@ -1,7 +1,5 @@
-## Hey 👋, I'm Ben
-
+### Hey 👋, I'm Ben
 I'm a Senior Software Developer passionate about solving complicated problems and creating impactful software solutions.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhsomma) 
 
