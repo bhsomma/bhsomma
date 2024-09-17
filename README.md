@@ -88,7 +88,7 @@ I'm a Senior Software Developer passionate about solving complicated problems an
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhsomma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhsomma&theme=dark&hide_border=false)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
